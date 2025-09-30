@@ -1,4 +1,4 @@
-### Hello, I'm SJ 👋
+### Hello, I'm sj 👋
 
 I'm an aspiring data scientist with a strong foundation in computer science and statistics.
 
