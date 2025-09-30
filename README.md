@@ -1,6 +1,8 @@
 ### Hello, I'm sj 👋
 
-I'm an aspiring data scientist with a strong foundation in computer science and statistics.
+I'm an aspiring data scientist with a strong foundation in computer science and statistics. 
+I studied for my Undergraduate at University College London.
+Here you'll find:
 
 ## Quick facts about me
 - MSc Statistics student at Imperial College London  
