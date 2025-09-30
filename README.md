@@ -8,4 +8,4 @@ I'm an aspiring data scientist with a strong foundation in computer science and 
 - Looking for a data scientist role in London  
 - Interested in data analysis, AI, and applied statistics
 
-You can connect with me on [LInkedIn](https://www.linkedin.com/in/seojeong-hong-933973256).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/seojeong-hong-933973256).
