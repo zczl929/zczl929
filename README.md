@@ -1,13 +1,6 @@
-### Hello, I'm sj 👋
+### Hello, I'm Seojeong 👋
 
 I'm an aspiring data scientist with a strong foundation in computer science and statistics. 
-I studied for my Undergraduate at University College London.
-Here you'll find:
-
-## Quick facts about me
-- MSc Statistics student at Imperial College London  
-- BSc Computer Science graduate from UCL  
-- Looking for a data scientist role in London  
-- Interested in data analysis, AI, and applied statistics
+I studied for my undergraduate at University College London.
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/seojeong-hong-933973256).
