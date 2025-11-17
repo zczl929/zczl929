@@ -1,5 +1,3 @@
-### Hello, I'm Seojeong 👋
+### Hello 👋
 
-I'm an aspiring data scientist with a strong foundation in computer science and statistics, currently pursuing my Master's degree at Imperial College London.
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/seojeong-hong-933973256).
+I'm an aspiring data scientist, currently pursuing my MSc Statistics(Data science and Machine learning) at Imperial College London.
