@@ -1,3 +1,3 @@
 ### Hello 👋
 
-I'm an aspiring data scientist, currently pursuing MSc Statistics at Imperial College London.
+I'm an MSc Statistics student at Imperial College London, interested in quantitative research, data science, and machine learning.
